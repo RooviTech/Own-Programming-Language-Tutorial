@@ -1,4 +1,4 @@
-package com.annimon.ownlang.parser;
+package com.annimon.ownlang.parse;
 
 import com.annimon.ownlang.exceptions.ParseException;
 import com.annimon.ownlang.lib.NumberValue;
